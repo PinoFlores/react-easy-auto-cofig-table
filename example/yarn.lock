@@ -4553,6 +4553,11 @@ send@0.17.2:
     range-parser "~1.2.1"
     statuses "~1.5.0"
 
+sequelize-search-builder-encode@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/sequelize-search-builder-encode/-/sequelize-search-builder-encode-1.1.0.tgz#acb48ec8e6073b585a8456671b56a3c53a02a5a8"
+  integrity sha512-ZMfHjDT7J0MNp7PM09Svh/+2tk5lFEzsVk1p+YPcorsGCVO+25YREwLkvs3pYtBDQbmbT87sX0E4K6OMcX7e6Q==
+
 serialize-to-js@^1.1.1:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/serialize-to-js/-/serialize-to-js-1.2.2.tgz#1a567b0c9bf557bc7d7b77b503dfae0a8218d15d"

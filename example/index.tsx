@@ -5,7 +5,7 @@ import { Thing } from '../.';
 
 const App = () => {
   return (
-    <div>
+    <div style={{ padding: '19px' }}>
       <Thing />
     </div>
   );
